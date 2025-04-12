@@ -32,5 +32,6 @@ A machine learning project aimed at identifying fraudulent credit card transacti
 *   bashCopyEditjupyter notebook
     
 *   In the Jupyter interface, open ML\_\_\_Credit\_Card\_Fraud\_Detection.ipynb to explore the code and analysis.
+  > Note: For detailed insights into the project's development and findings, please refer to the Report.pdf and CREDITCARD FRAUD DETECTION.pptx files included in this repository.
 ## 📄 License
 This project is licensed under the MIT License.
